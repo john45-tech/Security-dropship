@@ -1,3 +1,32 @@
 Your trusted sourse for modern home security.We dropship primium cameras,lock,and sensors to deliver peace of mind from any distance
 link rel="stylesheet" href="style.css">
 <h1>our latest security cameras<h1>
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProSecure | Advanced Surveillance</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>ProSecure Systems</h1>
+        <p>Your safety is our priority.</p>
+    </header>
+
+    <main>
+        <section class="camera-intro">
+            <h2>Our Latest Security Cameras</h2>
+            <p>Experience crystal clear 4K resolution, night vision, and AI motion detection.</p>
+            <button class="cta-button">View Catalog</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 ProSecure Systems. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
