@@ -64,3 +64,65 @@ main>
             </div>
         </section>
     </main>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProSecure | Advanced Surveillance</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>ProSecure Systems</h1>
+        <p>Your safety is our priority.</p>
+    </header>
+
+    <main>
+        <section class="camera-intro">
+            <h2>Our Latest Security Cameras</h2>
+            <p>Experience crystal clear 4K resolution, night vision, and AI motion detection.</p>
+            <button class="cta-button">View Catalog</button>
+        </section>
+
+        <section class="features">
+            <h3>Why Choose ProSecure?</h3>
+            <div class="feature-list">
+                <div class="feature-item">✅ 24/7 Live Monitoring</div>
+                <div class="feature-item">✅ Cloud Storage</div>
+                <div class="feature-item">✅ Weatherproof</div>
+            </div>
+        </section>
+
+        <section class="camera-grid">
+            <div class="camera-card">
+                <div class="placeholder-img">4K Outdoor</div>
+                <h4>Bullet Series 1</h4>
+                <p>KES 4,500</p>
+            </div>
+            <div class="camera-card">
+                <div class="placeholder-img">360° PTZ</div>
+                <h4>Dome Series 2</h4>
+                <p>KES 6,200</p>
+            </div>
+            <div class="camera-card">
+                <div class="placeholder-img">Smart Doorbell</div>
+                <h4>Entry Guard</h4>
+                <p>KES 3,800</p>
+            </div>
+        </section>
+
+        <section class="contact">
+            <h3>Get a Quote</h3>
+            <p>Ready to secure your home? Contact us today.</p>
+            <a href="mailto:info@prosecure.com" class="contact-link">Send us an Email</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 ProSecure Systems. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
