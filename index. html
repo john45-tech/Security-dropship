@@ -30,3 +30,37 @@ DOCTYPE html>
 
 </body>
 </html>
+main>
+        <section class="camera-intro">
+            <h2>Our Latest Security Cameras</h2>
+            <p>Experience crystal clear 4K resolution, night vision, and AI motion detection.</p>
+            <button class="cta-button">View Catalog</button>
+        </section>
+
+        <section class="features">
+            <h3>Why Choose ProSecure?</h3>
+            <ul>
+                <li>✅ 24/7 Live Monitoring</li>
+                <li>✅ Cloud Storage Integration</li>
+                <li>✅ Weatherproof Designs</li>
+            </ul>
+        </section>
+
+        <section class="camera-grid">
+            <div class="camera-card">
+                <div class="placeholder-img">4K Outdoor Cam</div>
+                <h4>Bullet Series 1</h4>
+                <p>KES 4,500</p>
+            </div>
+            <div class="camera-card">
+                <div class="placeholder-img">360° PTZ Cam</div>
+                <h4>Dome Series 2</h4>
+                <p>KES 6,200</p>
+            </div>
+            <div class="camera-card">
+                <div class="placeholder-img">Smart Doorbell</div>
+                <h4>Entry Guard</h4>
+                <p>KES 3,800</p>
+            </div>
+        </section>
+    </main>
